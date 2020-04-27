@@ -1,0 +1,6 @@
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\bin\Debug\StructuralPatterns1.exe.config
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\obj\Debug\StructuralPatterns1.csprojResolveAssemblyReference.cache
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\bin\Debug\StructuralPatterns1.exe
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\bin\Debug\StructuralPatterns1.pdb
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\obj\Debug\StructuralPatterns1.exe
+c:\users\vlada\documents\visual studio 2015\Projects\StructuralPatterns1\StructuralPatterns1\obj\Debug\StructuralPatterns1.pdb
